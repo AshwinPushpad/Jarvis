@@ -1,0 +1,2 @@
+- use threads for always running in bg
+- GUI
